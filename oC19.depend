@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1656026228 source:c:\users\aluno\desktop\oc19\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1656441654 source:c:\users\pedro\onedrive\documentos\if\ed\tarefas\oc19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
